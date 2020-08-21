@@ -12,5 +12,7 @@
      
      printf("Gleb Moisseyev!\n");
      printf("Computer Engineering\n");
+     printf("Ben Kruszka\n");
+     printf("Computer Science\n");
      return 0;
  }
